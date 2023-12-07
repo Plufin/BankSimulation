@@ -1,5 +1,7 @@
 # BankSim
 
+In collaboration with [kismakk](https://github.com/kismakk)
+
 BankSim is an ATM-simulation. The app is built with node.js (backend), QT Creator (frontend) and mySQL (database)
 
 ## Features
